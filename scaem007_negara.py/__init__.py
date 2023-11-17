@@ -1,0 +1,2 @@
+from scaem007_negara import get_country_info
+from scaem007_negara import print_country_info
